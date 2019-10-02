@@ -9,3 +9,4 @@ Components
    component-overview
    component-api
    component-mgmt-api
+   component-dsm
