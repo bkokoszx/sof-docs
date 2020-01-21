@@ -12,6 +12,7 @@ Developer guides and information for firmware development.
    mem-mgmt
    pm-runtime/index
    work-queue
+   parameter-propagation
    drivers/index
    components/index
    pipelines/index
